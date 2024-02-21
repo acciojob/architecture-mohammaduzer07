@@ -1,1 +1,35 @@
 /*  your css code here. If applicable */
+*{
+	margin:0px;
+	padding:0px;
+	font-family: repeating-radial-gradient;
+}
+body{
+	background-color: #cbd6cb;
+}
+#content-box{
+	max-width: 1100px;
+	margin: 0 auto;
+}
+.imageContainer{
+margin-bottom: 20px;
+}
+table{
+	margin-bottom: 20px;
+	width: 100%;
+	border-collapse: collapse;
+}
+.image-col{
+	width: 200px;
+	height: 100px;
+text-align: center;
+}
+.paragraph{
+	text-align: center;
+	width: 600px;
+}
+#image{
+	width: 200px;
+	padding: 0px;
+	margin: 0px;
+}
